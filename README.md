@@ -26,7 +26,18 @@ The project report consists of four key sections:
 
 You can access the interactive dashboard created for this project [here](https://app.powerbi.com/view?r=eyJrIjoiMmY5NjU5NmItOGFiNS00OTVkLTg1NTYtYTkwMmNkZGU4NDZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
+## Project Details
 
+1. **Data Cleaning and Modeling**: I started by cleaning and modeling the data, ensuring that the foundation was solid for our Power BI report.
+
+2. **Separate Measure Tables**: To optimize performance and simplify the user experience, I created separate measure tables.
+
+3. **User-Centric Design**: I crafted the report keeping the end users in mind, catering to the needs of executives, managers, and analysts, ensuring that the insights are easily accessible and meaningful for all.
+
+4. **Dynamic Interaction**: To enhance user engagement, I utilized bookmarks and buttons, making the report highly dynamic and responsive to user interactions.
+
+5. **Drill Through and Tooltips**: To make the report even more interesting, I implemented drill-through features and informative tooltips, allowing users to explore the data in-depth and gain valuable insights.
+   
 ## Tools Used
 
 - Microsoft Power BI Desktop: Used for data modeling, visualization, and dashboard creation.
