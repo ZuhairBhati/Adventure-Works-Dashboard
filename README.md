@@ -18,8 +18,8 @@ The project report consists of four key sections:
 
 ## Folder Structure
 
-- `AdventureWorks Raw Data/`: Contains the raw data used in the project.
 - `AdventureWorks Images/`: This folder contains images and screenshots for the project.
+- `AdventureWorks Raw Data/`: Contains the raw data used in the project.
 - `AdventureWorks Report/`: The Power BI Report.
 
 ## Interactive Dashboard
